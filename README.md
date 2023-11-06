@@ -1,2 +1,2 @@
 # The Orb of Elements
- Proyecto de Sergio Polono i Juan Antonio Rojas
+ Proyecto de Sergio Polonio i Juan Antonio Rojas
